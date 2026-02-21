@@ -1,16 +1,27 @@
-# flutter_application_1
+# Aplicación Flutter
 
-A new Flutter project.
+## Descripción
+Aplicación desarrollada en Flutter.
 
-## Getting Started
+## Funcionalidad
+La aplicación muestra la interfaz básica generada por Flutter y fue ejecutada en el simulador de Android.
 
-This project is a starting point for a Flutter application.
+## APK generado
+Se compiló la aplicación correctamente para generar el archivo APK.
 
-A few resources to get you started if this is your first Flutter project:
+## Evidencias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Aplicación instalada en el dispositivo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App funcionando](/Evidencias/evidencia3.png)
+
+### Proceso de instalación
+
+![Instalación](/Evidencias/evidencia2.png)
+
+### APK generado
+
+![APK](/Evidencias/evidencia3.png)
+
+## Daniela ALexandra Campo Rivera
+
