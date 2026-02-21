@@ -1,4 +1,4 @@
-# Aplicación Flutter
+# Aplicación Flutter Ejemplo 1
 
 ## Descripción
 Aplicación desarrollada en Flutter ejemplo # 1 Application (proyecto base de ejemplo).
