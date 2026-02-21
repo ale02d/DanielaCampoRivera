@@ -19,7 +19,7 @@ Se compiló la aplicación correctamente para generar el archivo APK.
 
 ![Instalación](/Evidencias/evidencia2.png)
 
-### APK generado
+### APK generada
 
 ![APK](/Evidencias/evidencia1.png)
 
