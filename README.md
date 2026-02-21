@@ -8,8 +8,8 @@ La aplicación muestra la interfaz básica generada por Flutter y fue ejecutada 
 
 
 ## Pasos 
-1. Se creo el Archivo del ejemplo 2
-2. Se creó el proyecto Flutter con plantilla Empty.
+1. Se creo el Archivo del ejemplo 1
+2. Se creó el proyecto Flutter con plantilla Application.
 3. Se ejecutó la aplicación en el emulador.
 4. Se compiló el proyecto para generar el APK en modo release.
 
