@@ -6,7 +6,7 @@ Aplicación desarrollada en Flutter ejemplo # 1 Application (proyecto base de ej
 ## Funcionalidad
 La aplicación muestra la interfaz básica generada por Flutter y fue ejecutada en el simulador de Android.
 
-## Pasos
+ #Pasos
 1.Se creo el Archivo del ejemplo 1 
 2.Se creó el proyecto Flutter con plantilla Application (proyecto base de ejemplo).
 3.Se ejecutó la aplicación en el emulador.
